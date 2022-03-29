@@ -1,6 +1,8 @@
 # home lab
 
-Notes for how to setup (chemical) home lab
+Notes for how to setup (chemical) home lab.
+
+Welcome information and comments! 👉 [discussions](https://github.com/Cartman0/homelab/discussions/)
 
 ## ⚠️ Warnings
 
