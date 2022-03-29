@@ -29,7 +29,7 @@ Notes for how to setup (chemical) home lab
 
 - Theodore E. Brown et.al., "Chemistry: The Central Science", 15th Global Edition, Pearson, ISBN-13: 978-1292407616, 2021; [[amazon]](https://amzn.to/3DlaqlY)
 
-### Biology
+### Biology textbook
 
 - David Hillis et.al., "Life: The Science of Biology", 12ed, WH Freeman, ISBN-13: 978-1319315788, 2020; [[macmillanlearning.com]](https://www.macmillanlearning.com/college/ca/product/Life-The-Science-of-Biology/p/1319017649) [[amazon]](https://amzn.to/3IQp6uP)
 
