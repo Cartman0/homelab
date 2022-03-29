@@ -2,9 +2,9 @@
 
 Notes for how to setup (chemical) home lab
 
-## Warnings
+## ⚠️ Warnings
 
-⚠️ Accidents in a home lab equal accidents at home.
+- Accidents in a home lab equal accidents at home.
 
 ## 📚 References that may help us
 
