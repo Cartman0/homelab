@@ -14,6 +14,7 @@ Notes for how to setup (chemical) home lab
   - Rev., p.104, ASIN: B0007FE2I4, 1963; [[amazon]](https://amzn.to/3DlIeQ7)
 - Robert Bruce Thompson, "Illustrated Guide to Home Chemistry Experiments: All Lab, No Lecture", DIY Science, Make Community, ISBN-13: 978-0596514921, 2008; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-chemistry-experiments-print) [[amazon]](https://amzn.to/3tNGQm9)
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Biology Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, 2012; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-biology-experiments-pdf) [[amazon]](https://amzn.to/3NtGtoA)
+- Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Forensic Science Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, ISBN-13: 978-1449334512, 2012; [[publisher]](https://www.oreilly.com/library/view/illustrated-guide-to/9781449334505/) [[amazon]](https://amzn.to/3LnjrxL)
 
 ### Cooking book (close food science)
 
