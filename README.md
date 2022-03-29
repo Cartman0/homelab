@@ -10,8 +10,8 @@ Notes for how to setup (chemical) home lab
 
 ### about setup
 
-- Robert Brent,"The Golden Book of Chemistry Experiments: How to Set up a Home Laboratory Over 200 Simple Experiments", p.114, Golden Press, 1960; [[wikipedia]](https://en.wikipedia.org/wiki/The_Golden_Book_of_Chemistry_Experiments) [[archive.org]](https://archive.org/details/brent-gbc)
-  - Rev., p.104, ASIN: B0007FE2I4, 1963; [[amazon]](https://www.amazon.com/Golden-Book-Chemistry-Experiments-Laboratory-Over/dp/B0007FE2I4)
+- Robert Brent, "The Golden Book of Chemistry Experiments: How to Set up a Home Laboratory Over 200 Simple Experiments", p.114, Golden Press, 1960; [[wikipedia]](https://en.wikipedia.org/wiki/The_Golden_Book_of_Chemistry_Experiments) [[archive.org]](https://archive.org/details/brent-gbc)
+  - Rev., p.104, ASIN: B0007FE2I4, 1963; [[amazon]](https://amzn.to/3DlIeQ7)
 - Robert Bruce Thompson, "Illustrated Guide to Home Chemistry Experiments: All Lab, No Lecture", DIY Science, Make Community, ISBN-13: 978-0596514921, 2008; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-chemistry-experiments-print) [[amazon]](https://amzn.to/3tNGQm9)
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Biology Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, 2012; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-biology-experiments-pdf) [[amazon]](https://amzn.to/3NtGtoA)
 
