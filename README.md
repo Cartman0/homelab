@@ -10,7 +10,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 ## 📚 References that may help us
 
-### about setup
+### ⚗️ about setup
 
 - Robert Brent, "The Golden Book of Chemistry Experiments: How to Set up a Home Laboratory Over 200 Simple Experiments", p.114, Golden Press, 1960; [[wikipedia]](https://en.wikipedia.org/wiki/The_Golden_Book_of_Chemistry_Experiments) [[archive.org]](https://archive.org/details/brent-gbc)
   - Rev., p.104, ASIN: B0007FE2I4, 1963; [[amazon]](https://amzn.to/3DlIeQ7)
@@ -27,7 +27,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - Jeff Potter, "Cooking for Geeks: Real Science, Great Cooks, and Good Food", 2nd Edition, O'Reilly Media, ISBN-13: 978-1491928059, 2015; [[publisher]](https://www.oreilly.com/library/view/cooking-for-geeks/9781491928110/) [[amazon]](https://amzn.to/3DiLjAp) 
   - Translate Japanese Edition: 水原 文　訳, "Cooking for Geeks 第2版 ――料理の科学と実践レシピ", ISBN: 978-4-87311-787-4, 2016; [[publisher]](https://www.oreilly.co.jp/books/9784873117874/) [[amazon]](https://amzn.to/3LjVK9G)
 
-### :atom: Chemistry textbook
+### 👨‍🔬 Chemistry textbook
 
 - Theodore E. Brown et.al., "Chemistry: The Central Science", 15th Global Edition, Pearson, ISBN-13: 978-1292407616, 2021; [[amazon]](https://amzn.to/3DlaqlY)
 
