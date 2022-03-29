@@ -6,7 +6,7 @@ Notes for how to setup (chemical) home lab
 
 ⚠️ Accidents in a home lab equal accidents at home.
 
-## References
+## 📚 References that may help us
 
 ### about setup
 
@@ -20,10 +20,14 @@ Notes for how to setup (chemical) home lab
 
 - Sciencemadness library [[webarchive]](http://web.archive.org/web/20220329180104/http://library.sciencemadness.org/library/index.html)
 
-### Cooking book (close food science)
+### 🧑‍🍳 Cooking book (close food science)
 
 - Jeff Potter, "Cooking for Geeks: Real Science, Great Cooks, and Good Food", 2nd Edition, O'Reilly Media, ISBN-13: 978-1491928059, 2015; [[publisher]](https://www.oreilly.com/library/view/cooking-for-geeks/9781491928110/) [[amazon]](https://amzn.to/3DiLjAp) 
   - Translate Japanese Edition: 水原 文　訳, "Cooking for Geeks 第2版 ――料理の科学と実践レシピ", ISBN: 978-4-87311-787-4, 2016; [[publisher]](https://www.oreilly.co.jp/books/9784873117874/) [[amazon]](https://amzn.to/3LjVK9G)
+
+### :atom: Chemistry textbook
+
+- Theodore E. Brown et.al., "Chemistry: The Central Science", 15th Global Edition, Pearson, ISBN-13: 978-1292407616, 2021; [[amazon]](https://amzn.to/3DlaqlY)
 
 ### Synthetic Biology
 
