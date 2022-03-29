@@ -16,6 +16,10 @@ Notes for how to setup (chemical) home lab
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Biology Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, 2012; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-biology-experiments-pdf) [[amazon]](https://amzn.to/3NtGtoA)
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Forensic Science Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, ISBN-13: 978-1449334512, 2012; [[publisher]](https://www.oreilly.com/library/view/illustrated-guide-to/9781449334505/) [[amazon]](https://amzn.to/3LnjrxL)
 
+### Library list pages
+
+- Sciencemadness library [[webarchive]](http://web.archive.org/web/20220329180104/http://library.sciencemadness.org/library/index.html)
+
 ### Cooking book (close food science)
 
 - Jeff Potter, "Cooking for Geeks: Real Science, Great Cooks, and Good Food", 2nd Edition, O'Reilly Media, ISBN-13: 978-1491928059, 2015; [[publisher]](https://www.oreilly.com/library/view/cooking-for-geeks/9781491928110/) [[amazon]](https://amzn.to/3DiLjAp) 
