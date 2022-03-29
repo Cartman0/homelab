@@ -22,3 +22,7 @@ Notes for how to setup (chemical) home lab
   - Translate Japanese Edition: 水原 文　訳, "Cooking for Geeks 第2版 ――料理の科学と実践レシピ", ISBN: 978-4-87311-787-4, 2016; [[publisher]](https://www.oreilly.co.jp/books/9784873117874/) [[amazon]](https://amzn.to/3LjVK9G)
 
 ### Synthetic Biology
+
+- Natalie Kuldell et.al., "BioBuilder: Synthetic Biology in the Lab", 1st Edition, O'Reilly Media, Inc., ISBN: 9781491904299, 2015; [[publisher]](https://www.oreilly.com/library/view/biobuilder/9781491907504/) [[amazon]](https://amzn.to/36XtSZV)
+  - Translate Japanese Edition: 津田 和俊 (監修), 片野 晃輔 (翻訳), 西原 由実 (翻訳), 濱田 格雄 (翻訳), "バイオビルダー ―合成生物学をはじめよう", Make: PROJECTS, オライリージャパン, ISBN-13: 978-4873118338, 2018; [[publisher]](https://www.oreilly.co.jp/books/9784873118338/) [[amazon]](https://amzn.to/3qMcEpH) 
+   
