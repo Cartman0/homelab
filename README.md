@@ -31,7 +31,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 - Theodore E. Brown et.al., "Chemistry: The Central Science", 15th Global Edition, Pearson, ISBN-13: 978-1292407616, 2021; [[amazon]](https://amzn.to/3DlaqlY)
 
-### 🦠 Biology textbook
+### :microbe: Biology textbook
 
 - David Hillis et.al., "Life: The Science of Biology", 12ed, WH Freeman, ISBN-13: 978-1319315788, 2020; [[macmillanlearning.com]](https://www.macmillanlearning.com/college/ca/product/Life-The-Science-of-Biology/p/1319017649) [[amazon]](https://amzn.to/3IQp6uP)
 
@@ -65,3 +65,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 18. 最終回 そして「生命2.0」への道（後編）体に刻まれた宇宙の非対称性 [[webarchive]](http://web.archive.org/web/20220329175425/https://gendai.ismedia.jp/articles/-/59534)
 
 </details>
+
+### :robot: Artificial Life (close simulation, algorithm, and software)
+
+- 岡 瑞起、池上 高志、ドミニク・チェン、青木 竜太、丸山 典宏, "作って動かすALife ――実装を通した人工生命モデル理論入門", オライリージャパン, ISBN: 978-4-87311-847-5, 2018; [[publisher]](https://www.oreilly.co.jp/books/9784873118475/) [[amazon]](https://amzn.to/3wOkqmH)
