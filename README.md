@@ -46,6 +46,12 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 - David Hillis et.al., "Life: The Science of Biology", 12ed, WH Freeman, ISBN-13: 978-1319315788, 2020; [[macmillanlearning.com]](https://www.macmillanlearning.com/college/ca/product/Life-The-Science-of-Biology/p/1319017649) [[amazon]](https://amzn.to/3IQp6uP)
 
+#### Molecular Biology
+
+- Bruce Alberts et.al., "Molecular Biology of the Cell", ISE. 7th ed. Product Bundle, June 15, 2022, [[amazon pre-order]](https://amzn.to/3Lrn1qL)
+  - Bruce Alberts et.al., "Molecular Biology of the Cell", 6th Edition, Garland Science, 2014; [[amazon]](https://amzn.to/3qP5TDy) 
+  - Translate to Japanese: 中村桂子 (翻訳) et.al., "細胞の分子生物学", 第6版, ニュートンプレス, 2017; [[amazon]](https://amzn.to/3Dz6iiE) 
+
 #### 🧫 Cell culture
 
 - 吉村 優里奈, "細胞培養入門", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/cellculture/forbeginner
