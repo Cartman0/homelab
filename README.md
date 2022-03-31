@@ -92,3 +92,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 ### :robot: Artificial Life (close simulation, algorithm, and software)
 
 - 岡 瑞起、池上 高志、ドミニク・チェン、青木 竜太、丸山 典宏, "作って動かすALife ――実装を通した人工生命モデル理論入門", オライリージャパン, ISBN: 978-4-87311-847-5, 2018; [[publisher]](https://www.oreilly.co.jp/books/9784873118475/) [[amazon]](https://amzn.to/3wOkqmH)
+
+## Equipments
+
+- here: https://github.com/Cartman0/homelab/tree/main/equipments
