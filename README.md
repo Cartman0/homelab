@@ -51,6 +51,8 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - Bruce Alberts et.al., "Molecular Biology of the Cell", ISE. 7th ed. Product Bundle, June 15, 2022, [[amazon pre-order]](https://amzn.to/3Lrn1qL)
   - Bruce Alberts et.al., "Molecular Biology of the Cell", 6th Edition, Garland Science, 2014; [[amazon]](https://amzn.to/3qP5TDy) 
   - Translate to Japanese: 中村桂子 (翻訳) et.al., "細胞の分子生物学", 第6版, ニュートンプレス, 2017; [[amazon]](https://amzn.to/3Dz6iiE) 
+- Bruce Alberts et.al., "Essential Cell Biology", 5th edition, W W Norton & Co Inc, 2019; [[amazon]](https://amzn.to/36XwO94)
+  - Translate to Japanese: 中村桂子 (翻訳) et.al., "Essential細胞生物学(原書第5版)", 南江堂, ISBN-13: 978-4524226825, 2021; [[amazon]](https://amzn.to/3NCLT0w)
 
 #### 🧫 Cell culture
 
