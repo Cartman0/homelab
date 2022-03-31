@@ -4,7 +4,7 @@ Notes for how to setup (chemical) home lab.
 
 Welcome information and comments! 👉 [discussions](https://github.com/Cartman0/homelab/discussions/)
 
-## ⚠️ Warnings
+## :warning: Warnings
 
 - Accidents in a home lab equal accidents at home.
 
@@ -25,6 +25,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 ### Library list pages
 
 - Sciencemadness library [[webarchive]](http://web.archive.org/web/20220329180104/http://library.sciencemadness.org/library/index.html)
+- Chemistry and Physics Experiments: A Resource Guide, https://guides.loc.gov/chemistry-and-physics-experiments
 
 ### 🧑‍🍳 Cooking book (close food science)
 
