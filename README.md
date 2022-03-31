@@ -18,10 +18,6 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Biology Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, 2012; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-biology-experiments-pdf) [[amazon]](https://amzn.to/3NtGtoA)
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Forensic Science Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, ISBN-13: 978-1449334512, 2012; [[publisher]](https://www.oreilly.com/library/view/illustrated-guide-to/9781449334505/) [[amazon]](https://amzn.to/3LnjrxL)
 
-### :microscope: Experiments
-
-- 河野 弥季, "化学実験-基礎のキソ", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/jikkennkiso
-
 ### Library list pages
 
 - Sciencemadness library [[webarchive]](http://web.archive.org/web/20220329180104/http://library.sciencemadness.org/library/index.html)
@@ -32,9 +28,15 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - Jeff Potter, "Cooking for Geeks: Real Science, Great Cooks, and Good Food", 2nd Edition, O'Reilly Media, ISBN-13: 978-1491928059, 2015; [[publisher]](https://www.oreilly.com/library/view/cooking-for-geeks/9781491928110/) [[amazon]](https://amzn.to/3DiLjAp) 
   - Translate Japanese Edition: 水原 文　訳, "Cooking for Geeks 第2版 ――料理の科学と実践レシピ", ISBN: 978-4-87311-787-4, 2016; [[publisher]](https://www.oreilly.co.jp/books/9784873117874/) [[amazon]](https://amzn.to/3LjVK9G)
 
-### 👨‍🔬 Chemistry textbook
+### 👨‍🔬 Chemistry 
+
+#### textbook
 
 - Theodore E. Brown et.al., "Chemistry: The Central Science", 15th Global Edition, Pearson, ISBN-13: 978-1292407616, 2021; [[amazon]](https://amzn.to/3DlaqlY)
+
+#### :microscope: Experiments books (that is called 化学実習書 in Japanese)
+
+- 河野 弥季, "化学実験-基礎のキソ", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/jikkennkiso
 
 ### :microbe: Biology 
 
