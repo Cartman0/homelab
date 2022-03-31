@@ -31,11 +31,17 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 - Theodore E. Brown et.al., "Chemistry: The Central Science", 15th Global Edition, Pearson, ISBN-13: 978-1292407616, 2021; [[amazon]](https://amzn.to/3DlaqlY)
 
-### :microbe: Biology textbook
+### :microbe: Biology 
+
+#### textbook
 
 - David Hillis et.al., "Life: The Science of Biology", 12ed, WH Freeman, ISBN-13: 978-1319315788, 2020; [[macmillanlearning.com]](https://www.macmillanlearning.com/college/ca/product/Life-The-Science-of-Biology/p/1319017649) [[amazon]](https://amzn.to/3IQp6uP)
 
-### 🧫 Synthetic Biology
+#### Cell culture
+
+- 吉村 優里奈, "細胞培養入門", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/cellculture/forbeginner
+
+#### 🧫 Synthetic Biology
 
 - Natalie Kuldell et.al., "BioBuilder: Synthetic Biology in the Lab", 1st Edition, O'Reilly Media, Inc., ISBN: 9781491904299, 2015; [[publisher]](https://www.oreilly.com/library/view/biobuilder/9781491907504/) [[amazon]](https://amzn.to/36XtSZV)
   - Translate Japanese Edition: 津田 和俊 (監修), 片野 晃輔 (翻訳), 西原 由実 (翻訳), 濱田 格雄 (翻訳), "バイオビルダー ―合成生物学をはじめよう", Make: PROJECTS, オライリージャパン, ISBN-13: 978-4873118338, 2018; [[publisher]](https://www.oreilly.co.jp/books/9784873118338/) [[amazon]](https://amzn.to/3qMcEpH) 
