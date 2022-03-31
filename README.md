@@ -10,13 +10,17 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 ## 📚 References that may help us
 
-### ⚗️ about setup
+### ⚗️ setup home lab
 
 - Robert Brent, "The Golden Book of Chemistry Experiments: How to Set up a Home Laboratory Over 200 Simple Experiments", p.114, Golden Press, 1960; [[wikipedia]](https://en.wikipedia.org/wiki/The_Golden_Book_of_Chemistry_Experiments) [[archive.org]](https://archive.org/details/brent-gbc)
   - Rev., p.104, ASIN: B0007FE2I4, 1963; [[amazon]](https://amzn.to/3DlIeQ7)
 - Robert Bruce Thompson, "Illustrated Guide to Home Chemistry Experiments: All Lab, No Lecture", DIY Science, Make Community, ISBN-13: 978-0596514921, 2008; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-chemistry-experiments-print) [[amazon]](https://amzn.to/3tNGQm9)
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Biology Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, 2012; [[publisher]](https://www.makershed.com/products/make-illustrated-guide-to-home-biology-experiments-pdf) [[amazon]](https://amzn.to/3NtGtoA)
 - Robert Bruce Thompson, Barbara Fritchman Thompson, "Illustrated Guide to Home Forensic Science Experiments: All Lab, No Lecture", 1st Edition, DIY Science, Make Community, ISBN-13: 978-1449334512, 2012; [[publisher]](https://www.oreilly.com/library/view/illustrated-guide-to/9781449334505/) [[amazon]](https://amzn.to/3LnjrxL)
+
+### Experiments
+
+- 河野 弥季, "化学実験-基礎のキソ", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/jikkennkiso
 
 ### Library list pages
 
@@ -37,11 +41,11 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 - David Hillis et.al., "Life: The Science of Biology", 12ed, WH Freeman, ISBN-13: 978-1319315788, 2020; [[macmillanlearning.com]](https://www.macmillanlearning.com/college/ca/product/Life-The-Science-of-Biology/p/1319017649) [[amazon]](https://amzn.to/3IQp6uP)
 
-#### Cell culture
+#### 🧫 Cell culture
 
 - 吉村 優里奈, "細胞培養入門", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/cellculture/forbeginner
 
-#### 🧫 Synthetic Biology
+#### Synthetic Biology
 
 - Natalie Kuldell et.al., "BioBuilder: Synthetic Biology in the Lab", 1st Edition, O'Reilly Media, Inc., ISBN: 9781491904299, 2015; [[publisher]](https://www.oreilly.com/library/view/biobuilder/9781491907504/) [[amazon]](https://amzn.to/36XtSZV)
   - Translate Japanese Edition: 津田 和俊 (監修), 片野 晃輔 (翻訳), 西原 由実 (翻訳), 濱田 格雄 (翻訳), "バイオビルダー ―合成生物学をはじめよう", Make: PROJECTS, オライリージャパン, ISBN-13: 978-4873118338, 2018; [[publisher]](https://www.oreilly.co.jp/books/9784873118338/) [[amazon]](https://amzn.to/3qMcEpH) 
