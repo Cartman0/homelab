@@ -34,9 +34,11 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 - Theodore E. Brown et.al., "Chemistry: The Central Science", 15th Global Edition, Pearson, ISBN-13: 978-1292407616, 2021; [[amazon]](https://amzn.to/3DlaqlY)
 
-#### :microscope: Experiments books (that is called 化学実習書 in Japanese)
+#### :microscope: Experiments and techniques books (that is called 化学実習書 in Japanese)
 
+- Andreas Hofmann, Samuel Clokie, "Wilson and Walker's Principles and Techniques of Biochemistry and Molecular Biology", 8th edition, Cambridge University Press, ISBN-13: 978-1107162273, 2018; [[amazon]](https://amzn.to/3Lxdej5)
 - 河野 弥季, "化学実験-基礎のキソ", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/jikkennkiso
+
 
 ### :microbe: Biology 
 
