@@ -11,10 +11,8 @@
 
 ### References
 
-- WorkOn, "大切な手を守る「防護手袋」と「JIS規格・化学防護手袋」について知る", pub date 2020, https://hataraku-fuku.com/workingclothes-tools/worker/protective-glove5/
+- WorkOn, "大切な手を守る「防護手袋」と「JIS規格・化学防護手袋」について知る", pub date 2020, http://web.archive.org/web/20220401193830/https://hataraku-fuku.com/workingclothes-tools/worker/protective-glove5/
 
 ## :microscope: Microscopes
 
 https://github.com/Cartman0/homelab/tree/main/equipments/microscopes
-
-
