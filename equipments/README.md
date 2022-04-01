@@ -6,6 +6,14 @@
 
 ### Structure Parts
 
+#### Objective Lens (in Japanese: 対物レンズ)
+
+How to read the specs:
+
+> !["顕微鏡の構成と仕様 ～対物レンズ～", 図21](microscopes/img/objectiveLens_spec_cite__www.olympus-lifescience.com_ja_support_learn_02_038__img_20.jpg)
+>
+> source of img: OLYMPUS, "顕微鏡の構成と仕様 ～対物レンズ～", 図21, https://www.olympus-lifescience.com/ja/support/learn/02/038/
+
 ### Capabilities
 
 - Resolving Power(Numerical Aperture; NA)
