@@ -4,6 +4,14 @@
 
 ## Structure Parts
 
+### Viewing tube
+
+- Monocular tube(in Japanese:単眼): for education
+- Binocular tube(in Japanese:双眼): for observating
+- Trinocular tube(in Japanese:三眼): for observating + taking images
+
+ref: JMMA, Knowledge of a Microscope 2.顕微鏡の光学系 2.5.鏡筒光学系, http://web.archive.org/web/20220401124033/https://microscope.jp/knowledge/02-5.html
+
 ### Objective Lens (in Japanese: 対物レンズ)
 
 How to read the specs:
