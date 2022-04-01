@@ -20,11 +20,14 @@ The depth of field (DOF) is inversely proportional to the numerical aperture of 
 
 ##### Image Brightness
 
-Image brightness is proportional to the square of the numerical aperture (NA) and inversely proportional to the square of the total magnification (M). Gerally, because $M > NA$, the higher the magnification, the darker the image brightness.
+Image brightness is proportional to the square of the numerical aperture (NA) and inversely proportional to the square of the total magnification (M). Gerally, because `M > NA`, the higher the magnification, the darker the image brightness.
 
-$$
-\text{brightness} = K\frac{NA^2}{M^2}
-$$
+![\begin{align*}
+\text{brightness} = K\frac{NA^2}{M^2} 
+\end{align*}
+](https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bblack%7D%5Cdisplaystyle+%5Cbegin%7Balign%2A%7D%0A%5Ctext%7Bbrightness%7D+%3D+K%5Cfrac%7BNA%5E2%7D%7BM%5E2%7D+%0A%5Cend%7Balign%2A%7D%0A)
+
+where `K` is constants.
 
 > ref: https://www.olympus-lifescience.com/ja/support/learn/02/035
 
@@ -49,12 +52,3 @@ $$
 http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%81%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
 
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    processEscapes: true
-  }
-});
-</script>
-<script async type="text/javascript" charset="utf-8" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
