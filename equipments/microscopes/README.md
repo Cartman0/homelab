@@ -70,6 +70,7 @@ ref:
 - Omano Microscopes, China, since 1998;
 - United Scope LLC.; [[official]](https://www.unitedscope.com/brands)
   - Brand: 
+    - Euromex Microscopen, 1966; [[catalog]](https://www.euromex.com/en/products/products/upright-microscopes/education-upright-microscopes/)
     - AmScope; [[official shop]](https://amscope.com/collections/compound-microscopes) [[amazon store]](https://www.amazon.com/stores/page/352042C3-4DFD-4EF8-A88A-75D1A1697223?ingress=2&visitId=8f0b717d-4588-421e-ad92-cf96ad85931c&ref_=ast_bln)
       - 正規代理店 in Japan: [誠報堂科学館](https://microscope.seihodo.jp/)
 - Motic, China
