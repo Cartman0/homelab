@@ -65,7 +65,7 @@ ref:
 
 ## Maker, Brand, Series and Products
 
-- Meiji Techno, Japan; [[Direct Shop]](http://shop.meijitechno.jp/index.html)
+- Meiji Techno, Since 1975, Japan; [[Direct Shop]](http://shop.meijitechno.jp/index.html)
 - WRAYMER INC., Japan, Since 2008; [[online shop]](https://www.wraymer.com/shop.html)
 - Omano Microscopes, China, since 1998;
 - Motic, China
