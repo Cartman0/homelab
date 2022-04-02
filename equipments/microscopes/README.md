@@ -70,7 +70,7 @@ ref:
 - Motic, China
   - Brand: 
     - Swift Microscopes; [[Amazon Store]](https://www.amazon.co.jp/stores/page/BEC8886A-1124-41AC-A09C-F4487112C0CA?ingress=2&visitId=a9b34bf8-400b-40a1-96ff-d45dc8a15eb7&ref_=ast_bln)
-    - National Optical 
+    - National Optical; [[catalog]](https://nationaloptical.com/products/compound-microscopes) 
     
 ref:
 - Microscope.com, "MICROSCOPE BRANDS", https://www.microscope.com/education-center/buyers-guides/microscope-brands/
