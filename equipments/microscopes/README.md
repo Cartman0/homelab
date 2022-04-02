@@ -68,6 +68,10 @@ ref:
 - Meiji Techno, Since 1975, Japan; [[Direct Shop]](http://shop.meijitechno.jp/index.html)
 - WRAYMER INC., Japan, Since 2008; [[online shop]](https://www.wraymer.com/shop.html)
 - Omano Microscopes, China, since 1998;
+- United Scope LLC.; [[official]](https://www.unitedscope.com/brands)
+  - Brand: 
+    - AmScope; [[official shop]](https://amscope.com/collections/compound-microscopes) [[amazon store]](https://www.amazon.com/stores/page/352042C3-4DFD-4EF8-A88A-75D1A1697223?ingress=2&visitId=8f0b717d-4588-421e-ad92-cf96ad85931c&ref_=ast_bln)
+      - 正規代理店 in Japan: [誠報堂科学館](https://microscope.seihodo.jp/)
 - Motic, China
   - Brand: 
     - Swift Microscopes; [[Amazon Store]](https://www.amazon.co.jp/stores/page/BEC8886A-1124-41AC-A09C-F4487112C0CA?ingress=2&visitId=a9b34bf8-400b-40a1-96ff-d45dc8a15eb7&ref_=ast_bln)
@@ -77,7 +81,6 @@ ref:
 - Microscope.com, "MICROSCOPE BRANDS", https://www.microscope.com/education-center/buyers-guides/microscope-brands/
 - 誠報堂科学館, "顕微鏡のメーカーについて", publish date: 2015,
 http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%81%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
-
 
 ## References for Guide
 
