@@ -1,5 +1,8 @@
 # Equipments
 
+In the 1960s, though the development of the Internet began, it hasn't widespread yet.
+However, in the 2020s, online shopping is the norm, we can purchase below equipments on such as [Amazon]() anytime.
+
 ## Protective Gloves
 
 - JIS T8116 is the standard for chemical protective gloves in Japan.
