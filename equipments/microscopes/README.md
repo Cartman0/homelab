@@ -86,7 +86,7 @@ ref:
 
 ## Makers, Brand, Series and Products
 
-The world's four largest makers:
+The world's 4 largest makers:
 
 - OLYMPUS, Japan
 - NIKON, Japan
@@ -117,6 +117,10 @@ Other maker:
   - Brands: 
     - Euromex Microscopen, Since 1966; [[catalog]](https://www.euromex.com/en/products/products/upright-microscopes/education-upright-microscopes/)
     - AmScope; [[official shop]](https://amscope.com/collections/compound-microscopes) [[amazon store]](https://www.amazon.com/stores/page/352042C3-4DFD-4EF8-A88A-75D1A1697223?ingress=2&visitId=8f0b717d-4588-421e-ad92-cf96ad85931c&ref_=ast_bln)
+      - Products
+        - [M200A-LED 40x-640x amazon 12,404 Yen + shipping](https://amzn.to/3DzOHad) 
+        - [M200C-LED 40x-1000x amazon 13,256 Yen + shipping](https://amzn.to/3DPArdL)
+        - [M500-MS-LED amazon 21,260 Yen + shipping](https://amzn.to/3uRIYbN)
       - 正規代理店 in Japan: [誠報堂科学館](https://microscope.seihodo.jp/)
     - OMAX; [[online shop]](https://omaxmicroscope.com/compound-microscopes.html?dir=asc&limit=36&order=price)
 - Motic, China
