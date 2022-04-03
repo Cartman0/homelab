@@ -56,6 +56,14 @@ where `K` is constants.
 |durability|low|high|
 |accuracy(distortion-less)|low|high|
 
+### Model Number Trends
+
+|Symbol|Viewing tube|
+|:-:|:-:|
+|M|Monocular tube|
+|B|Binocular tube|
+|T|Trinocular tube|
+
 ## Terms
 
 - DIN(Deutsche Industrie-Norm) Standard 
