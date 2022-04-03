@@ -20,6 +20,10 @@ How to read the specs:
 >
 > source of img: OLYMPUS, "顕微鏡の構成と仕様 ～対物レンズ～", 図21, https://www.olympus-lifescience.com/ja/support/learn/02/038/
 
+### eye lens
+
+DIN Standard: dilimeter 23.2mm
+
 ## Capabilities
 
 - Resolving Power(Numerical Aperture; NA)
@@ -47,7 +51,16 @@ where `K` is constants.
 
 ## Specs
 
-### Trends of frame spec
+### Grade model
+
+1. Professional Model 300,000 - Yen
+2. College Model 100,000 - 300,000 Yen
+3. School Model 30,000 - 100,000 Yen
+4. Family Model 1,000 - 30,000 Yen, stage size is smaller.
+
+ref: Bosque Rico, "激安！おすすめ！価格崩壊中の本格的生物顕微鏡がなぜ凄いのか Eng. ARTEC biological microscope with", https://www.youtube.com/watch?v=ruYlIxc8mco
+
+#### Trends of frame spec
 
 |attr\material|plastic|metal|
 |:-:|:-:|:-:|
@@ -56,7 +69,7 @@ where `K` is constants.
 |durability|low|high|
 |accuracy(distortion-less)|low|high|
 
-### Model Number Trends
+### Trends of Model Number 
 
 |Symbol|Viewing tube|
 |:-:|:-:|
@@ -71,10 +84,34 @@ where `K` is constants.
 ref:
 - WRAYMER, "顕微鏡の用語集", https://www.wraymer.com/howto/glossary.html
 
-## Maker, Brand, Series and Products
+## Makers, Brand, Series and Products
+
+The world's four largest makers:
+
+- OLYMPUS, Japan
+- NIKON, Japan
+- Leica, German
+- Zeiss, German
+
+Other Japan maker:
 
 - Meiji Techno, Since 1975, Japan; [[Direct Shop]](http://shop.meijitechno.jp/index.html)
+- 八洲光学, Japan; [[neo shop]](http://www.neoshop.rupon.jp/158.html)
+- 島津理科
+  - Brand: SHIMAZDU
+- 内田洋行
+  - Brand: UCHIDA
 - WRAYMER INC., Japan, Since 2008; [[online shop]](https://www.wraymer.com/shop.html)
+- カートン光学, Japan;
+- ケニス, Japan; [[online shop]](https://www.kenis.co.jp/onlineshop/list/25)
+- ナリカ, Japan;
+- 株式会社ヤガミ, Japan;
+- ARTEC, Japan
+- MIZAR-TEC Co., Ltd., Since 1952
+  - Brand: MIZAR; [[catalog]](https://www.mizar.co.jp/product/index/3)
+
+Other maker: 
+
 - Omano Microscopes, China, since 1998;
 - United Scope LLC., U.S.; [[official]](https://www.unitedscope.com/brands)
   - Brands: 
@@ -88,7 +125,16 @@ ref:
     - National Optical; [[catalog]](https://nationaloptical.com/products/compound-microscopes) 
 - SVBONY, China, Since 2008, [[Official shop]](https://www.svbony.jp/shop/category/microscope?product_list_order_dir=Price,asc&product_list_mode=grid) [[amazon store]](https://www.amazon.co.jp/stores/page/93637938-9117-498C-BCEA-15C15E0344C1?ingress=2&visitId=210c8d99-acf2-4568-a724-0e94412b04b5&ref_=ast_bln)
 
+### online store
+
+online store microscope goods in Japan.
+
+-  [neo shop](http://www.neoshop.rupon.jp/158.html)
+-  [スズモリオンライン](https://item.rakuten.co.jp/suzumori/)
+-  [学林舎](https://gakurinsha.shop-pro.jp/?mode=cate&cbid=669973&csid=23)
+
 ref:
+- Bosque Rico, "独断で選出！国内最強の顕微鏡12メーカーをランキング Eng. BEST 12 Japanese Microscope Makers", https://www.youtube.com/watch?v=GCJFzmxjIW0
 - Microscope.com, "MICROSCOPE BRANDS", https://www.microscope.com/education-center/buyers-guides/microscope-brands/
 - 誠報堂科学館, "顕微鏡のメーカーについて", publish date: 2015,
 http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/%E9%A1%95%E5%BE%AE%E9%8F%A1%E3%81%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/
