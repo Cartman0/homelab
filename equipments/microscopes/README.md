@@ -20,9 +20,9 @@ How to read the specs:
 >
 > source of img: OLYMPUS, "顕微鏡の構成と仕様 ～対物レンズ～", 図21, https://www.olympus-lifescience.com/ja/support/learn/02/038/
 
-### eye lens
+### eyepiece (ocular)
 
-DIN Standard: dilimeter 23.2mm
+DIN Standard: diameter 23.2mm
 
 ## Capabilities
 
