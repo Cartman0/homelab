@@ -41,8 +41,8 @@ DIN Standard: diameter 23.2mm
 >> 
 >> between 1 and 2, there are process before project by eyepiece.
 >>
->> - Mirror system: In the　mirror system, the real image is inverted left and right and then passes through the eyepiece, finally we can view the image that is inverted up and down for original target.
->> - Prism method:
+>> - Mirror system: In the　mirror system, the real image is inverted left and right and then passes through the eyepiece, finally we can view the　inverted image that is *'inverted up and down'　and 'not changed orientaiton of left and right' for original target*.
+>> - Prism system: the real image is inverted up and down and then passes through the eyepiece, finally we can view the　erect image that is *'inverted left and right' and 'not changed orientaiton of up and down' for original target*.
 
 ## Capabilities
 
