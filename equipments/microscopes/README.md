@@ -156,7 +156,11 @@ http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/
 
 - Max Born, Emil Wolf, "Principles of Optics", 60th Anniversary Edition, 2019; [[amazon]](https://amzn.to/3u7xmm4)
 - "「光学」の講義ノートPDF。基礎から量子光学・光物性・レーザーの教科書", 主に言語とシステム開発に関して, https://web.archive.org/web/20210818120005/https://language-and-engineering.hatenablog.jp/entry/20140602/OpticsPhysicsPDFLectureNotes
-  
+
+#### Color Dynamics
+
+- CCS Inc., "光と色の話　第一部", 全42回, http://web.archive.org/web/20220404111248/https://www.ccs-inc.co.jp/guide/column/light_color/
+
 #### Optics Design
 
 - George H. Seward, "Optical Design of Microscopes", SPIE Tutorial Text Vol. TT8, SPIE Tutorial Texts, 2010; [[amazon]]()
