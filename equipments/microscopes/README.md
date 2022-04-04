@@ -35,7 +35,14 @@ DIN Standard: diameter 23.2mm
 
 > ![]()
 >
-> "光学顕微鏡の原理", https://www.ipc.shimane-u.ac.jp/food/kobayasi/principle%20of%20microscope.htm
+> "光学顕微鏡の原理", http://web.archive.org/web/20220404202943/https://www.ipc.shimane-u.ac.jp/food/kobayasi/principle%20of%20microscope.htm
+
+>> ※ want doc explaining this for detail
+>> 
+>> between 1 and 2, there are process before project by eyepiece.
+>>
+>> - Mirror system: In the　mirror system, the real image is inverted left and right and then passes through the eyepiece, finally we can view the image that is inverted up and down for original target.
+>> - Prism method:
 
 ## Capabilities
 
