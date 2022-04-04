@@ -100,9 +100,11 @@ ref: Bosque Rico, "激安！おすすめ！価格崩壊中の本格的生物顕�
 ## Terms
 
 - DIN(Deutsche Industrie-Norm) Standard 
+- Achromatic objective lens: objective lens that corrected chromatic aberration for red and blue color
 
 ref:
 - WRAYMER, "顕微鏡の用語集", https://www.wraymer.com/howto/glossary.html
+- ORYMPUS, "顕微鏡用語解説", https://www.olympus-lifescience.com/ja/support/terminology/
 
 ## Makers, Brand, Series and Products
 
