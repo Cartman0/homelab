@@ -122,6 +122,8 @@ Other maker:
         - [M200C-LED 40x-1000x amazon 13,256 Yen + shipping](https://amzn.to/3DPArdL)
         - [M500-MS-LED amazon 21,260 Yen + shipping](https://amzn.to/3uRIYbN)
         - [B100-E amazon 26,346 Yen + shipping](https://amzn.to/3DBnGDe)
+        - [M500-E 26,412Yen + shipping](https://amzn.to/3J7wulv)
+        - [M600B-E 40x-2000x amazon 28,213 Yen + shipping](https://amzn.to/3vbFMrV)
       - 正規代理店 in Japan: [誠報堂科学館](https://microscope.seihodo.jp/)
     - OMAX; [[online shop]](https://omaxmicroscope.com/compound-microscopes.html?dir=asc&limit=36&order=price)
 - Motic, China
