@@ -149,3 +149,9 @@ http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/
 ## References for Guide
 
 - OLYMPUS, "顕微鏡を学ぶ", https://www.olympus-lifescience.com/ja/support/learn/
+
+### Optics textbook
+
+- Max Born, Emil Wolf, "Principles of Optics", 60th Anniversary Edition, 2019; [[amazon]](https://amzn.to/3u7xmm4)
+ 
+
