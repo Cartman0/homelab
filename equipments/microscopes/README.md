@@ -2,6 +2,9 @@
 
 ## Types
 
+- **optical microscope** (this doc summerize it)
+- electronic scope
+
 ## Structure Parts
 
 ### Viewing tube
