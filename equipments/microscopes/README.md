@@ -155,6 +155,7 @@ http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/
 ### Optics textbook
 
 - 黒田 和男 et.al., "光の教科書", 2016; [[amazon]](https://amzn.to/3x2ocJa)
+  - Experimental kit: OPTICS DISCOVERY KIT (OSA), [(sold out)](http://shop.optronics.co.jp/products/detail.php?product_id=424)
 - "「光学」の講義ノートPDF。基礎から量子光学・光物性・レーザーの教科書", 主に言語とシステム開発に関して, https://web.archive.org/web/20210818120005/https://language-and-engineering.hatenablog.jp/entry/20140602/OpticsPhysicsPDFLectureNotes
 - Eugene Hecht, "Optics", eBook Global Edition, 5th, 2016; [[amazon]](https://amzn.to/3iZ8zu1)  
   - Translate to Japanese: Eugene Hecht (著), 尾崎 義治 (翻訳), "原著5版 ヘクト 光学 I 基礎と幾何光学", 2018; [[amazon]](https://amzn.to/3u5UD7P)
