@@ -154,4 +154,8 @@ http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/
 
 - Max Born, Emil Wolf, "Principles of Optics", 60th Anniversary Edition, 2019; [[amazon]](https://amzn.to/3u7xmm4)
  
+ ### Physics textbook
+ 
+ - Feynman, Leighton, Sands, "The Feynman Lectures on Physics", Vol.1, https://feynmanlectures.caltech.edu/info/
+  - this vol.1 deal with light.
 
