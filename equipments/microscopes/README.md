@@ -27,6 +27,16 @@ How to read the specs:
 
 DIN Standard: diameter 23.2mm
 
+## Principles of optical microscope
+
+1. The objective lens projects a real image that magnified the target　in the opposite direction of the target's top, bottom, left, and right.
+2. The eyepiece projects an imaginary image magnified this real image. (At this time, since it is an imaginary image, the orientation of the image does not change.)
+3. We observers view this imaginary image through the eyepiece.
+
+> ![]()
+>
+> "光学顕微鏡の原理", https://www.ipc.shimane-u.ac.jp/food/kobayasi/principle%20of%20microscope.htm
+
 ## Capabilities
 
 - Resolving Power(Numerical Aperture; NA)
