@@ -153,9 +153,10 @@ http://web.archive.org/web/20190215065421/https://microscope.seihodo.jp/2015/10/
 ### Optics textbook
 
 - Max Born, Emil Wolf, "Principles of Optics", 60th Anniversary Edition, 2019; [[amazon]](https://amzn.to/3u7xmm4)
+- "「光学」の講義ノートPDF。基礎から量子光学・光物性・レーザーの教科書", 主に言語とシステム開発に関して, https://web.archive.org/web/20210818120005/https://language-and-engineering.hatenablog.jp/entry/20140602/OpticsPhysicsPDFLectureNotes
+
+#### Physics textbook
  
- ### Physics textbook
- 
- - Feynman, Leighton, Sands, "The Feynman Lectures on Physics", Vol.1, https://feynmanlectures.caltech.edu/info/
+- Feynman, Leighton, Sands, "The Feynman Lectures on Physics", Vol.1, https://feynmanlectures.caltech.edu/info/
   - this vol.1 deal with light.
 
