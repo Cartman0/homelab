@@ -27,6 +27,20 @@ we can use glasses on 100 Yen shop if ensures enough safety for cheap one.
 - DAISO, "保護メガネ ＴＹＰＥ２", 100 Yen, material: ポリカーボネイト塩化ビニル樹脂, size： 8×8.3×16cm, https://jp.daisonet.com/products/4984343942561
 - DAISO, "メガネをかけたまま使える安全メガネクリアＫ２９０", 100 Yen, material： ポリカーボネイト, size： 5×6.5×16cm, https://jp.daisonet.com/products/4549131118889?variant=39684121591981
 
+## :non-potable_water: Water Supply
+
+Siphon bottles are able to be used if no near water faucet.
+
+### :lotion_bottle: Siphon bottle
+
+Siphon bottles are sometimes sold as aqualium goods in 2020s.
+
+
+
+### Products
+
+- サイフォンボトル　1Ｌ, https://yadokariya.jp/shopdetail/000000006783/
+
 ## :microscope: Microscopes
 
 https://github.com/Cartman0/homelab/tree/main/equipments/microscopes
