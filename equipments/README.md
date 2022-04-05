@@ -35,9 +35,9 @@ Siphon bottles are able to be used if no near water faucet.
 
 Siphon bottles are sometimes sold as aqualium goods in 2020s.
 
+About Principles of siphon: https://github.com/Cartman0/homelab/blob/main/physics/fluid_dynamics/principles_of_siphon.md
 
-
-### Products
+#### Products
 
 - サイフォンボトル　1Ｌ, https://yadokariya.jp/shopdetail/000000006783/
 
