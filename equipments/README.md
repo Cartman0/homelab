@@ -48,7 +48,7 @@ About Principles of siphon: https://github.com/Cartman0/homelab/blob/main/physic
 we can make a alchol burner, but if you buy it, you can get safer one such as more heat-resistant. 
 we can also purchase siphon cofee set or camp goods in 2020s.
 
-#### How to use safety
+#### How to use saf
 
 Fuels should be something like plant oil, which has a higher flash point than alcohol.
 
