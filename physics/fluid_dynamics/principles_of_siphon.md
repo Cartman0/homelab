@@ -2,7 +2,15 @@
 
 Principles of siphon is based on **Bernoulli's principle** in fluid dynamics.
 
-## References
+## Application examples
+
+### Siphon coffee
+
+#### Products
+
+- Hario, コーヒーサイフォン テクニカ 2杯用 TCA-2, https://amzn.to/3LLWqFa
+
+## :books: References
 
 - Web Lecture Series大阪大学基礎工学部, "サイフォンのしくみ～流体力学入門～", https://www.youtube.com/watch?v=ckH7ZzlLrgk
 - 松田卓也, "サイフォンを巡る誤概念・・・大気圧説も鎖モデルも間違い", publish: 2013, http://web.archive.org/web/20220405091944/https://jein.jp/jifs/scientific-topics/1010-topic56.html 
