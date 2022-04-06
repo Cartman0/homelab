@@ -1,6 +1,6 @@
 # Principles of siphon
 
-Principles of siphon is based on **Bernoulli's principle** in fluid dynamics.
+Principles of siphon is based on **Bernoulli's principle**　and **Navier–Stokes equations** in fluid dynamics.
 
 ## Application examples
 
