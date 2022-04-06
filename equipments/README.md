@@ -41,6 +41,26 @@ About Principles of siphon: https://github.com/Cartman0/homelab/blob/main/physic
 
 - サイフォンボトル　1Ｌ, https://yadokariya.jp/shopdetail/000000006783/
 
+## :fire: Source of Heat
+
+### :diya_lamp: alchol burner
+
+we can make a alchol burner, but if you buy it, you can get safer one such as more heat-resistant. 
+we can also purchase siphon cofee set or camp goods in 2020s.
+
+#### How to use safety
+
+Fuels should be something like plant oil, which has a higher flash point than alcohol.
+
+Example:
+
+- "サラダ油で簡易ランプ" (easy lamp by plant oil), publish: 2018, http://web.archive.org/web/20220406200544/https://www.keishicho.metro.tokyo.lg.jp/kurashi/saigai/yakudachi/house/lifeline/902676408585019392.html
+
+#### Products
+
+- Hario, コーヒーサイフォン テクニカ 2杯用 TCA-2, [[amazon]](https://amzn.to/3Jh4v31)
+- モノタロウ, https://www.monotaro.com/s/c-72810/attr_f5197-%E3%81%AD%E3%81%98%E5%BC%8F/?sort=price
+
 ## :microscope: Microscopes
 
 https://github.com/Cartman0/homelab/tree/main/equipments/microscopes
