@@ -50,7 +50,9 @@ we can also purchase siphon cofee set or camp goods in 2020s.
 
 #### How to use safely
 
-Fuels should be something like plant oil, which has a higher flash point than alcohol.
+Fuels should be something like vegetable oil, which has a higher flash point than alcohol.
+
+Vegetable oil components: http://web.archive.org/web/20220406220728/https://www.nisshin-oillio.com/oil/qa/qa02.html 
 
 Example:
 
