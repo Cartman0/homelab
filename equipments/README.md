@@ -69,6 +69,10 @@ Poly tubes and rubber tubes are used to prevent gas leakage from the glass tubes
 
 ### :test_tube: Test tube
 
+### Glass tube
+
+The thickness of the glass tube should be 5 mm in outer diameter．
+
 ### Poly tube
 
 ### Rubber tube
