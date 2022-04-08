@@ -75,6 +75,14 @@ The thickness of the glass tube should be 5 mm in outer diameter．
 
 ### Poly tube
 
+The inner diameter of poly tubes and rubber tubes should be about 1 mm thinner than the outer diameter of the glass tube to prevent leakage from the gas from the glass tube.
+
+e.g. if glass tube's outer diameter is 5 mm, the inner diameter of poly tubes and rubber tubes sholud be 4mm．
+
+#### Products
+
+- アズワン, "ビニールチューブホース", 37 Yen, 品番4×6, 内径(Φmm): 4, 外径(Φmm): 6, 材質軟質: PVC (塩化ビニル樹脂) 長さ(m): 1, 使用温度範囲(℃): -20～60, https://www.monotaro.com/p/3315/3382/?t.q=%83r%83j%81%5B%83%8B%81E%83%60%83%85%81%5B%83u
+
 ### Rubber tube
 
 ## :microscope: Microscopes
