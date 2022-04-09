@@ -87,6 +87,7 @@ e.g. if glass tube's outer diameter is 5 mm, the inner diameter of poly tubes an
 
 #### Products
 
+- ナリカ, "ゴム管 (5m単位)", 品番: S75-3143-02, 1,250 Yen, 内径×外径(Φmm): 4×6, 色: 黒, https://www.monotaro.com/p/5045/6255/
 - タイガースポリマー, "フッ素ゴムチューブ", 1,270 Yen, 品番FR27, 内径(Φmm):4, 外径(Φmm):6, 長さ(m):1, 材質: フッ素ゴム, 硬さ(デュロメータA): 71, 色: 黒, 伸び(%): 490, 使用温度範囲(℃): -10～200, 引張強度(MPa): 12.1, https://www.monotaro.com/p/3278/9321/
 
 ## :microscope: Microscopes
