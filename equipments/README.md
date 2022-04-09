@@ -96,7 +96,7 @@ e.g. if glass tube's outer diameter is 5 mm, the inner diameter of poly tubes an
 
 #### glass thermometer
 
-- Daiso, 料理用温度計, 100 Yen, 0-200℃, https://jp.daisonet.com/products/4549131892192?_pos=2&_sid=5384682af&_ss=r
+- Daiso, 料理用温度計, 100 Yen, 0-200℃, 商品サイズ：0.6cm×0.6cm×30cm, https://jp.daisonet.com/products/4549131892192?_pos=2&_sid=5384682af&_ss=r
 
 ## :microscope: Microscopes
 
