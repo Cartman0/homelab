@@ -106,6 +106,6 @@ https://github.com/Cartman0/homelab/tree/main/equipments/microscopes
 
 - [工具の通販モノタロウ > 科学研究・開発用品/クリーンルーム用品 > 科学研究・開発用品](https://www.monotaro.com/s/c-135902/)
 - 理化学ショップ [[楽天市場店]](https://www.rakuten.co.jp/dejima/)
-- 東急ハンズ, [official パーティーグッズ・ゲーム > 実験用品](https://hands.net/cate/party/science/) [[rakuten]](https://item.rakuten.co.jp/tokyu-hands/c/0000006647/)
+- 東急ハンズ, [[official(パーティーグッズ・ゲーム > 実験用品)]](https://hands.net/cate/party/science/) [[rakuten]](https://item.rakuten.co.jp/tokyu-hands/c/0000006647/)
 - [CAINZ-DASH PRO > 研究用品 > 理化学用品](https://www.cainz.com/c/ctr_v04/)
 
