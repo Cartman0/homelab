@@ -96,6 +96,7 @@ https://github.com/Cartman0/homelab/tree/main/equipments/microscopes
 
 ## Online shop for chemistry
 
+- 理化学ショップ [[楽天市場店]](https://www.rakuten.co.jp/dejima/)
 - [東急ハンズ > パーティーグッズ・ゲーム > 実験用品](https://hands.net/cate/party/science/)
 - [CAINZ-DASH PRO > 研究用品 > 理化学用品](https://www.cainz.com/c/ctr_v04/)
-- 
+
