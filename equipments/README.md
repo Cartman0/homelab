@@ -93,3 +93,8 @@ e.g. if glass tube's outer diameter is 5 mm, the inner diameter of poly tubes an
 ## :microscope: Microscopes
 
 https://github.com/Cartman0/homelab/tree/main/equipments/microscopes
+
+## online shop
+
+- [CAINZ-DASH PRO > 研究用品 > 理化学用品](https://www.cainz.com/c/ctr_v04/)
+- 
