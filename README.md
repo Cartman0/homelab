@@ -101,7 +101,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 ## Experiment operations
 
 - Solution (ja: 溶液化)
-- Decantaion (ja: 傾斜法)
+- Decantation (ja: 傾斜法)
 - Filtration (ja: 濾過)
 - Evapolation (ja: 蒸発)
 - Crystallization (ja: 結晶化)
