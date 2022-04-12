@@ -63,11 +63,24 @@ Example:
 - Hario, コーヒーサイフォン テクニカ 2杯用 TCA-2, [[amazon]](https://amzn.to/3Jh4v31)
 - モノタロウ, https://www.monotaro.com/s/c-72810/attr_f5197-%E3%81%AD%E3%81%98%E5%BC%8F/?sort=price
 
+## Container
+
+### :test_tube: Test tube
+
+### Alkali resistant container
+
+Glass is not suitable for storage because it dissolves in alkaline solutions.
+Polypropylene and polyethylene are suitable as materials for alkali resistant containers.
+Since shampoo is basically alkaline, its containers, which we often see in our life, are often alkaline-resistant.
+
+#### Products
+
+- Daiso, 化粧ボトル（ケース入）, 100 Yen, https://jp.daisonet.com/products/4549892005565?_pos=1&_sid=f08410c72&_ss=r
+
 ## Tubes
 
 Poly tubes and rubber tubes are used to prevent gas leakage from the glass tubes.
 
-### :test_tube: Test tube
 
 ### Glass tube
 
