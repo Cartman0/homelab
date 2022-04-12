@@ -97,3 +97,11 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 ## Equipments
 
 - here: https://github.com/Cartman0/homelab/tree/main/equipments
+
+## Experiment operations
+
+- Solution (ja: 溶液化)
+- Decantaion (ja: 傾斜法)
+- Filtration (ja: 濾過)
+- Evapolation (ja: 蒸発)
+- Crystallization (ja: 結晶化)
