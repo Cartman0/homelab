@@ -49,6 +49,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 #### Molecular Biology
 
+- Aysha Divan, Janice Royds, "Molecular Biology: A Very Short Introduction", Very Short Introductions, 1st edition, 2016, [[amazon]](https://amzn.to/3M6Ac0q)
 - Bruce Alberts et.al., "Molecular Biology of the Cell", ISE. 7th ed. Product Bundle, June 15, 2022, [[amazon pre-order]](https://amzn.to/3Lrn1qL)
   - Bruce Alberts et.al., "Molecular Biology of the Cell", 6th Edition, Garland Science, 2014; [[amazon]](https://amzn.to/3qP5TDy) 
   - Translate to Japanese: 中村桂子 (翻訳) et.al., "細胞の分子生物学", 第6版, ニュートンプレス, 2017; [[amazon]](https://amzn.to/3Dz6iiE) 
