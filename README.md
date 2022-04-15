@@ -106,3 +106,12 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - Filtration (ja: 濾過)
 - Evapolation (ja: 蒸発)
 - Crystallization (ja: 結晶化)
+
+## Chemical fomulas
+
+Chemical fomulas are supported by follow 2 laws: 
+
+- **Law of definite proportions** by Joseph Louis Proust
+  - e.g. if H2O, 1H, and 16O, proportions of weights H:O = 2:16 = 1:8
+- ****
+  - e.g.  
