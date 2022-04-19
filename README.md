@@ -109,7 +109,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 
 ## Chemical formulas
 
-Chemical fomulas are supported by follow 2 laws: 
+Chemical formulas are supported by follow 2 laws: 
 
 - **Law of definite proportions** by Joseph Louis Proust
   - e.g. if H2O, 1H, and 16O, proportions of weights H:O = 2:16 = 1:8
