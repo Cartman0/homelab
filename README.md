@@ -107,7 +107,7 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - Evapolation (ja: 蒸発)
 - Crystallization (ja: 結晶化)
 
-## Chemical fomulas
+## Chemical formulas
 
 Chemical fomulas are supported by follow 2 laws: 
 
