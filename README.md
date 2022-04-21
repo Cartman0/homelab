@@ -42,7 +42,9 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - 河野 弥季, "化学実験-基礎のキソ", 九州大学附属図書館 Cute.Guides, https://guides.lib.kyushu-u.ac.jp/jikkennkiso
 
 #### Molecular model simulation
+
 - [MolView](https://molview.org/), Browser 
+- [nglviewer/nglview](https://github.com/nglviewer/nglview), python/jupyter
 
 ### :microbe: Biology 
 
