@@ -115,3 +115,6 @@ Chemical formulas are supported by follow 2 laws:
   - e.g. if H2O, 1H, and 16O, proportions of weights H:O = 2:16 = 1:8
 - **Law of multiple proportions** by John Dalton
   - e.g. if mass of CO, CO2, and C are 28g, 44g, 12g, mass of O in CO and O in CO2 are 16g, 32g. O(CO):O2(CO2) = 16:32 = 1:2 
+
+## Tests
+- starch test by iodine
