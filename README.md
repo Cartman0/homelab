@@ -112,6 +112,11 @@ Welcome information and comments! 👉 [discussions](https://github.com/Cartman0
 - Evapolation (ja: 蒸発)
 - Crystallization (ja: 結晶化)
 
+## Elements 
+
+### Metalloid
+- 14 Silicon
+
 ## Chemical formulas
 
 Chemical formulas are supported by follow 2 laws: 
